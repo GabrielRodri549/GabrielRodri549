@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bem Vindo ao meu perfil! 
 
-<!--
-**GabrielRodri549/GabrielRodri549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é **Gabriel**
 
-Here are some ideas to get you started:
+* Sou estudante da escola João Jorge Marmorato e estou cursando o meu primeiro projeto do ensino médio
+* Estou estudando um curso com base na linguagem javascript, na biblioteca p5js, fornecido pela plataforma AluraStart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Meu Contato :📬
+
+00001127465508sp@al.educacao.sp.gov.br
+
+<!..
+
+
+
+
+
